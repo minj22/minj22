@@ -1,8 +1,8 @@
 <div style="text-align: left;">
   
 ## Hi there, I'm Minjee👋
-Majoring in Artificial Intelligence.  
-Passionate about Natural Language Processing and Generative AI.
+* Majoring in Artificial Intelligence.
+* Passionate about Natural Language Processing and Generative AI.
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💬 Contact </h2>
@@ -19,13 +19,13 @@ Passionate about Natural Language Processing and Generative AI.
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         
-        <br/>
+        <br/><br/>
         
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 
-        <br/>
+        <br/><br/>
         
         <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
