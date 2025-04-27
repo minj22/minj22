@@ -1,4 +1,12 @@
 ## Hi there 👋
+<p align="left">
+  <a href="https://www.linkedin.com/in/minjee-yang-661655305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://andre99.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-Blog-black?logo=bookstack" alt="Tistory Badge"/>
+  </a>
+</p>
 
 <!--
 **minj22/minj22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
