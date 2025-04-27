@@ -1,10 +1,10 @@
 ## Hi there 👋
 <p align="left">
-  <a href="https://www.linkedin.com/in/minjee-yang-661655305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn Badge"/>
+  <a href="[https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/minjee-yang-661655305/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://andre99.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-Blog-black?logo=bookstack" alt="Tistory Badge"/>
+  <a href="[https://your-tistory-link](https://andre99.tistory.com/)" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-Blog-red?logo=bookstack" alt="Tistory Badge"/>
   </a>
 </p>
 
