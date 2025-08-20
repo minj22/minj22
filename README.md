@@ -1,6 +1,6 @@
 <div style="text-align: left;">
   
-## Hi there, I'm Minjee👋
+## Hi there, I'm Minjee<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />
 * Majoring in Artificial Intelligence.
 * Passionate about Natural Language Processing and Generative AI.
 
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Fastapi-FF4B4B?style=for-the-badge&logo=Fastapi&logoColor=white">
 
   <br>
 
