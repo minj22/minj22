@@ -1,6 +1,6 @@
 <div style="text-align: left;">
   
-## Hi there, I'm Minjee<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />
+## Hi there, I'm Minjee<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands%20Light%20Skin%20Tone.png" alt="Raising Hands Light Skin Tone" width="30" height="30" />
 * Majoring in Artificial Intelligence.
 * Passionate about Natural Language Processing and Generative AI.
 
