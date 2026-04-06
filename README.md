@@ -1,10 +1,11 @@
-# Hi, I'm Minjee 👋
+## Hi, I'm Minjee 👋
 
 > AI undergraduate focused on **Human-AI Interaction**.
 
 ---
 
 ## 📬 Contact
+
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-ff5544?style=flat-square&logo=Tistory&logoColor=white)](https://andre99.tistory.com/)
 
 ---
