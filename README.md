@@ -1,6 +1,6 @@
 ## Hi, I'm Minjee 👋
 
-> AI undergraduate focused on **Human-AI Interaction**.
+🔍 Interested in Multimodal AI, LLMs & Computer Vision
 
 
 ## 📬 Contact
